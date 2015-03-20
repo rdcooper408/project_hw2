@@ -7,6 +7,8 @@ output: html_document
 
 # Determining Gene Ontology with Large Sequence Libraries
 
+## please check my github repository: https://github.com/rdcooper408/project_hw2
+
 For my project i embarked on a wonderful journey to shame my computer and eventually unlock the secrets that
 RNA sequences hold. I began with a simple question that quickly evolved into a thought provoking and challenging
 series of solutions which would test the very fabric of my computing soul. I enjoyed the journey very much
