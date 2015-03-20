@@ -1,0 +1,89 @@
+>Cluster 0
+0	46373nt, >contig00061... *
+1	180nt, >contig211358... at +/99.44%
+2	401nt, >contig836597... at -/99.25%
+3	196nt, >contig1078984... at -/100.00%
+4	188nt, >contig1085199... at -/98.40%
+5	168nt, >contig1098951... at +/100.00%
+6	157nt, >contig1106268... at +/98.73%
+7	108nt, >contig1135897... at -/98.15%
+8	104nt, >contig1138290... at -/100.00%
+9	65nt, >contig1164541... at -/98.46%
+10	55nt, >contig1169310... at +/100.00%
+11	53nt, >contig1170221... at +/98.11%
+>Cluster 1
+0	17963nt, >contig00062... *
+1	100nt, >contig212534... at +/100.00%
+2	121nt, >contig227839... at +/100.00%
+3	177nt, >contig235467... at -/98.87%
+4	482nt, >contig673703... at +/97.93%
+5	391nt, >contig842617... at +/98.98%
+6	247nt, >contig1030410... at -/97.57%
+7	106nt, >contig1137267... at -/100.00%
+8	95nt, >contig1143495... at +/97.89%
+9	95nt, >contig1144013... at +/98.95%
+10	84nt, >contig1151221... at +/98.81%
+11	63nt, >contig1165551... at +/100.00%
+>Cluster 2
+0	11751nt, >contig314228... *
+>Cluster 3
+0	11689nt, >contig314229... *
+>Cluster 4
+0	10816nt, >contig155504... *
+1	141nt, >contig1116125... at -/98.58%
+2	64nt, >contig1164824... at +/98.44%
+>Cluster 5
+0	10813nt, >contig314230... *
+1	84nt, >contig1151924... at -/100.00%
+>Cluster 6
+0	10313nt, >contig89638... *
+1	150nt, >contig1109950... at -/100.00%
+>Cluster 7
+0	10072nt, >contig139600... *
+>Cluster 8
+0	9930nt, >contig314231... *
+>Cluster 9
+0	9872nt, >contig155509... *
+>Cluster 10
+0	9749nt, >contig314232... *
+>Cluster 11
+0	88nt, >contig28902... at +/96.59%
+1	72nt, >contig28940... at -/95.83%
+2	92nt, >contig71684... at -/95.65%
+3	9618nt, >contig113277... *
+>Cluster 12
+0	9592nt, >contig314233... *
+>Cluster 13
+0	9500nt, >contig85413... *
+1	71nt, >contig1161040... at -/100.00%
+>Cluster 14
+0	9473nt, >contig314234... *
+1	75nt, >contig1158811... at -/98.67%
+>Cluster 15
+0	9472nt, >contig58983... *
+1	124nt, >contig1126270... at +/99.19%
+>Cluster 16
+0	9437nt, >contig100795... *
+>Cluster 17
+0	9375nt, >contig314235... *
+>Cluster 18
+0	9329nt, >contig64692... *
+>Cluster 19
+0	9221nt, >contig69026... *
+>Cluster 20
+0	9174nt, >contig201336... *
+1	284nt, >contig986238... at +/99.65%
+2	196nt, >contig1079647... at -/96.43%
+3	138nt, >contig1116341... at -/100.00%
+>Cluster 21
+0	9128nt, >contig106313... *
+1	206nt, >contig278657... at +/100.00%
+>Cluster 22
+0	9009nt, >contig77607... *
+>Cluster 23
+0	8981nt, >contig314236... *
+>Cluster 24
+0	188nt, >contig204461... at -/99.47%
+1	8842nt, >contig314237... *
+>Cluster 25
+0	8802nt, >contig139643... *
